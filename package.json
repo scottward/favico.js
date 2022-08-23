@@ -1,6 +1,6 @@
 {
-  "name": "favico.js",
-  "version": "0.3.10",
+  "name": "@maartennnn/favico.js",
+  "version": "0.3.12",
   "description": "Favico.js is a library to manipulate the favicon, adding alert badges, render images or videos.",
   "main": "favico.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git://github.com/ejci/favico.js.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "favicon",
